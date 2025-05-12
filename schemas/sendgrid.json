@@ -30409,7 +30409,7 @@
       "name": "on-behalf-of",
       "in": "header",
       "type": "string",
-      "default": "The subuser's username. This header generates the API call as if the subuser account was making the call."
+      "description": "The subuser's username. This header generates the API call as if the subuser account was making the call."
     },
     "trait:baseParams:aggregated_by": {
       "name": "aggregated_by",
